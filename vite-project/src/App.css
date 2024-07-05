@@ -1,0 +1,14 @@
+/* src/App.css */
+.app {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #000000;
+}
+
+.prize-content {
+  text-align: center;
+  font-size: 24px;
+  color: #333;
+}
